@@ -1,1 +1,1 @@
-
+Folder to be used for design documents.
